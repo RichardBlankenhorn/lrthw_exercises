@@ -20,15 +20,15 @@
 > (113796269_chapter_0_master) Richard Blankenhorn
 > Richards-MacBook-Pro:chapter_0 $
 
-# Links for classes: Arrays, Hash, Chronic, Structs and Operators
+# Links for classes: Arrays, Hash, Chronic, Structs and Random
 
 Arrays:
 
-> http://rubylearning.com/satishtalim/ruby_arrays.html
+> http://ruby-doc.org/core-2.2.4/Array.html
 
 Hash:
 
-> http://ruby-doc.org/core-2.2.0/Hash.html
+> http://ruby-doc.org/core-2.2.4/Hash.html
 
 Chronic (ruby gem):
 
@@ -36,8 +36,8 @@ Chronic (ruby gem):
 
 Structs:
 
-> http://ruby-doc.org/core-2.2.0/Struct.html
+> http://ruby-doc.org/core-2.2.4/Struct.html
 
-Operators:
+Random:
 
-> http://www.tutorialspoint.com/ruby/ruby_operators.htm
+> http://ruby-doc.org/core-2.2.4/Random.html
