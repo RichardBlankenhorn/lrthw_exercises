@@ -1,12 +1,15 @@
 # RuboCop Comments
 
 > RuboCop despises the below format for string concatenation.
+```
 fat_cat = """
-I'll do a list:
-\t* Cat food
-\t* Fishies
-\t* Catnip\n\t* Grass
-"""
+  I'll do a list:
+  \t* Cat food
+  \t* Fishies
+  \t* Catnip\n\t* Grass
+"""  
+```
+
 > RuboCop would prefer that I use \ at the end of each line and use \n to create new lines.
 
 > RuboCop also did not like the below format
